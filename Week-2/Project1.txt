@@ -1,0 +1,32 @@
+Store checkout after purchase
+    customer observes queue at checkout coumter
+    customer moves ton scan at checkout aisle
+    Worker scans customer product items
+    Total amount is calculated
+    Customer pays bill using preferred method 
+    Are there sufficient funds?
+    if yes process payment
+    if no display insufficient funds.
+    print receipt
+    display "Thank you for shopping with us"
+    customer collects products, payment receipt then leaves the Store
+
+Flowchart of morning routine
+    Alarm rings
+    Stop the alarm and get up
+    go to the bathroom and brush my teeth 
+    have my bath
+    dress up and get ready for school
+    Go to school
+    
+Algorithm for swapping ages
+  Name_1 = input("What is your name: ")
+  Age_1 = input("How old are you?  ")
+  Name_2 = inout("What is your name: ")
+  Age_2 input("How old are you? ")
+
+print(f"Your name is {Name_1} and you are {Age_2} years old )
+
+print(f"Your name is {Name_2} and you are {Age_1} years old )
+
+
