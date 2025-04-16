@@ -5,5 +5,5 @@ def printinfo( arg1 , vartuple ):
     for var in vartuple:
         print (var)
         return
-printinfo( 18 )
+printinfo( 10 )
 printinfo( 70,60,50 )
